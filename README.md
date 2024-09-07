@@ -10,7 +10,7 @@ cluster, i.e how the clustering was made.
 important features (blood metabolites) that were used in order to classify
 if a person has diabetes or not.
 
-In the end, we found that the most important features are CC_48153 and CC_48152.
+In the end, we found that the most important features are CC_48153 and CC_48152.
 Also other blood metabolites have an important role.
 
 For full display check
