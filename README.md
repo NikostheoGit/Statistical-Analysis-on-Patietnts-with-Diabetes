@@ -1,5 +1,5 @@
 Our dataset contain 430 patients and 1197 blood metabolites for each patient
-and our goal is to find key biological metabolites that could explain part of the
+and our goal is to find key biological metabolites that could explain part of the
 variability in diabetes.  We followed this process:
 
 * Cluster Analysis: We want to see how many clusters can be created for our
