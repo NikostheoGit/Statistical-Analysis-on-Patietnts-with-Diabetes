@@ -6,7 +6,7 @@ variability in diabetes.  We followed this process:
 data. Moreover, we need to know which of the metabolites belong to each
 cluster, i.e how the clustering was made.
 
-* Classification/Regression analysis: We created some models to find the
+* Classification/Regression analysis: We created some models to find the
 important features (blood metabolites) that were used in order to classify
 if a person has diabetes or not.
 
