@@ -13,4 +13,4 @@ if a person has diabetes or not.
 In the end, we found that the most important features are CC_48153 and CC_48152.
 Also other blood metabolites have an important role.
 
-For full display check
+For full display check DigitalHealthReport.pdf.
